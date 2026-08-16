@@ -82,4 +82,6 @@ This project is available for demonstration and educational purposes.
 
 Built by **Huzi24** — combining a Pharm.D background with AI-assisted rapid app development.
 https://github.com/Huzi24/pharma-watch-safe/blob/main/.gitignore
+Readme link:
+https://github.com/Huzi24/pharma-watch-safe/blob/main/README.md
 
